@@ -14,7 +14,7 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 3. What is the class name of the third element and the content of the css?
 ```
-class name is "elementThree"
+class name is elementThree
 
 CSS content:
     padding: 10px;
