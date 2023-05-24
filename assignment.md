@@ -17,12 +17,13 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 class name is elementThree
 
 CSS content:
+.elementThree {
     padding: 10px;
     background-color: aquamarine;
     text-shadow: 1px 1px white;
     border: gray solid 2px;
     border-radius: 10px;
-
+}
 ```
 
 4. What is the css selector of the fourth element?
